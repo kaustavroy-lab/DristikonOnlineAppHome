@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+
+
+
+
+
+#slider-0 .btn {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 10px;
+}
+#msg-box2-10 H2 {
+  text-align: center;
+  font-size: 17px;
+  color: #ffffff;
+}
+#msg-box2-10 .btn {
+  font-size: 23px;
+}
+#content5-m .mbr-section-title {
+  text-align: center;
+  color: #ff0700;
+}
+#content5-m .mbr-section-title B {
+  font-size: 20px;
+  font-family: 'Bitter', serif;
+}
+#content5-m P {
+  font-size: 17px;
+}
+#video1-t DIV {
+  text-align: center;
+  color: #ff0700;
+}
+#form2-d .mbr-section-title {
+  font-size: 20px;
+  font-family: 'Indie Flower', cursive;
+  color: #ffffff;
+}
+#form2-d .mbr-section-title B {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#social-buttons2-e .mbr-section-title {
+  text-align: center;
+  font-size: 20px;
+  color: #e6e0dc;
+}
+#form1-q .mbr-section-title {
+  font-size: 20px;
+  color: #e6e0dc;
+}
+#footer1-4 P {
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+}
