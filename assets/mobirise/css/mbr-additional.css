@@ -8,9 +8,16 @@
 
 
 
+#social-buttons1-1c .mbr-section-title {
+  text-align: center;
+  font-size: 13px;
+}
 #slider-0 .btn {
   font-family: 'Alegreya Sans', sans-serif;
   font-size: 10px;
+}
+#image1-18 DIV {
+  text-align: center;
 }
 #msg-box2-10 H2 {
   text-align: center;
@@ -42,6 +49,9 @@
 #video1-t DIV {
   text-align: center;
   color: #ff0700;
+}
+#image1-1a DIV {
+  text-align: center;
 }
 #form2-d .mbr-section-title {
   font-size: 20px;

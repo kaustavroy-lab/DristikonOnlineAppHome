@@ -14,7 +14,7 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 44,
+    "uniqCompNum": 49,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/splash-128x128-1.png",
@@ -78,6 +78,37 @@
           ],
           "_name": "image1",
           "_anchor": "image1-n"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": false,
+            "facebook": false,
+            "twitter": false,
+            "google": false
+          },
+          "text": "<b><i>Testing App / Testing Adv.&nbsp;</i></b><br><b><i>(Developer:-Kaustav Roy)</i></b>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-1c",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "13px"
+            }
+          }
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -164,6 +195,36 @@
               "font-family": "'Alegreya Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
               "font-size": "10px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/advertisemeny-souma-1400x180.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "Advertisement",
+              "title": "Advertisement"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<br>Testing Add.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-18",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
             }
           }
         },
@@ -322,6 +383,36 @@
               "color": "#ff0700"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/advertisemeny-souma-1400x180.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "Advertisement",
+              "title": "Advertisement"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<br>Testing Add.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "image1-1a"
         },
         {
           "_params": {
@@ -746,6 +837,31 @@
           ],
           "_name": "features1",
           "_anchor": "features1-3"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/souma-1400x990.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "Advertisement",
+              "title": "Advertisement"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1b"
         },
         {
           "_params": {
