@@ -96,7 +96,7 @@
             "twitter": false,
             "google": false
           },
-          "text": "<b><i>Testing App / Testing Adv.&nbsp;</i></b><br><b><i>(Developer:-Kaustav Roy)</i></b>",
+          "text": "<b><i>Regression testing/ Final &nbsp;pre-release testing&nbsp;</i></b><br><b><i>(Developer:-Kaustav Roy)</i></b>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -365,7 +365,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/7XX9n_XMEIc",
+              "src": "https://youtu.be/mNuLsIENYYI",
               "autoplay": "on",
               "loop": false
             }
