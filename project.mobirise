@@ -14,7 +14,7 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 49,
+    "uniqCompNum": 50,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/splash-128x128-1.png",
@@ -64,8 +64,8 @@
               "src": "@PROJECT_PATH@/assets/images/artboard-1-1025x239.png",
               "width": 1400,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Dristikon Online App Logo",
+              "title": "Dristikon Online App Logo"
             },
             "video": {
               "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
@@ -80,37 +80,6 @@
           "_anchor": "image1-n"
         },
         {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "counters": false,
-            "facebook": false,
-            "twitter": false,
-            "google": false
-          },
-          "text": "<b><i>Regression testing/ Final &nbsp;pre-release testing&nbsp;</i></b><br><b><i>(Developer:-Kaustav Roy)</i></b>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-1c",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "13px"
-            }
-          }
-        },
-        {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "autoplay": true,
@@ -122,27 +91,27 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/maxresdefault1-1280x720.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 2",
-                "contentAlign": "center",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://youtu.be/dDxNXsE2lds\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-video-play mbr-iconfont mbr-iconfont-btn\"></span>Click To View</a> ",
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/updated-thumbnail-1815x1021.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
-                "title": "Slide 1",
+                "title": "Confusing Chat",
+                "contentAlign": "center",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://youtu.be/dDxNXsE2lds\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-video-play mbr-iconfont mbr-iconfont-btn\"></span>Click To View</a> ",
+                "alt": "Confusing Chat"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/updated-thumbnail-1815x1021.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "title": "\"29\" Chapter 1",
                 "contentAlign": "center",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"https://youtu.be/Txbc9vXXqqE\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-video-play mbr-iconfont mbr-iconfont-btn\"></span>Click To View</a>  ",
-                "alt": ""
+                "alt": "\"29\" Chapter 1"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/thumbnail-1920x1080.jpg",
@@ -150,12 +119,12 @@
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
-                "title": "Slide 3",
+                "title": "Dream",
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"https://youtu.be/X7vjmAWi55s\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click To View</a> ",
                 "overlay": false,
-                "alt": ""
+                "alt": "Dream"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/video-thumbnail-1360x765.jpg",
@@ -163,11 +132,11 @@
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
-                "title": "Slide 1",
+                "title": "Pepe Seddo",
                 "contentAlign": "center",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://youtu.be/_KHWWImVc6U\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-video-play mbr-iconfont mbr-iconfont-btn\"></span>Click To View</a>  ",
-                "alt": ""
+                "alt": "Pepe Seddo"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/thumb-part-2-1.5k-1920x1080.jpg",
@@ -175,11 +144,11 @@
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
-                "title": "Slide 2",
+                "title": "Somay",
                 "contentAlign": "center",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://youtu.be/_Jp96VRx9V0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-video-play mbr-iconfont mbr-iconfont-btn\"></span>Click To View</a> ",
-                "alt": ""
+                "alt": "Somay"
               }
             ]
           },
@@ -443,9 +412,8 @@
               "width": 600,
               "active": true,
               "link": "https://kaustavroy-lab.github.io/magazinedkon/",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "ম্যাগাজিন-Magazine",
+              "title": "ম্যাগাজিন-Magazine"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -459,9 +427,9 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://performersdkonindia.mobirisesite.com/",
-              "alt": "",
-              "title": "",
+              "link": "https://kaustavroy-lab.github.io/performersdkon/",
+              "alt": "Performers",
+              "title": "Performers",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -547,9 +515,8 @@
               "width": 600,
               "active": true,
               "link": "https://kaustavroy-lab.github.io/dkonourstory/",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": true
+              "alt": "Our Story",
+              "title": "Our Story"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -564,9 +531,8 @@
               "width": 600,
               "active": true,
               "link": "https://kaustavroy-lab.github.io/dkonadminastration/",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Admin",
+              "title": "Admin"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -655,9 +621,9 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://dkonphotogallery.mobirisesite.com/",
-              "alt": "",
-              "title": "",
+              "link": "https://kaustavroy-lab.github.io/photogallerydkon/",
+              "alt": "Photo Gallery",
+              "title": "Photo Gallery",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -673,9 +639,8 @@
               "width": 600,
               "active": true,
               "link": "https://kaustavroy-lab.github.io/healthtipsdkon/",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Health Tips",
+              "title": "Health Tips"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -690,8 +655,8 @@
               "width": 600,
               "active": true,
               "link": "http://www.jobless-engineer.blogspot.com/",
-              "alt": "",
-              "title": ""
+              "alt": "Jobless Engineer",
+              "title": "Jobless Engineer"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -763,9 +728,8 @@
               "width": 600,
               "active": true,
               "link": "https://kaustavroy-lab.github.io/developerstudiodkon/",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Developer Studio",
+              "title": "Developer Studio"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -780,8 +744,8 @@
               "width": 600,
               "active": true,
               "link": "https://kaustavroy-lab.github.io/Promoteyourbussinessdkon/",
-              "alt": "",
-              "title": ""
+              "alt": "Promote Your Local Business with Dristikon",
+              "title": "Promote Your Local Business with Dristikon"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -1008,7 +972,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "© Copyright 2020 Dristikon, Tarakeswar \n<br>Designed &amp; Developed by <a href=\"https://kaustavroy-lab.github.io/kaustavroyinfo/\">Kaustav Roy</a><br>",
+          "text": "Dristikon Online App 2.0<br>© Copyright 2020 Dristikon, Tarakeswar \n<br>Designed &amp; Developed by <a href=\"https://kaustavroy-lab.github.io/kaustavroyinfo/\">Kaustav Roy</a><br>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1018,8 +982,9 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-size": "16px"
             }
           }
         }
