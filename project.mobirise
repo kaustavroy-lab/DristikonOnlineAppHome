@@ -841,7 +841,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.8"
           },
-          "title": "Subscribe Our App For Daily Lattest Updates",
+          "title": "Subscribe Our App For Daily Latest Updates",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Subscribe</a>",
           "form": {
             "action": "kaustavroy338@gmail.com",
