@@ -221,7 +221,7 @@
           },
           "title": "<b>কোভিড-১৯ সম্পর্কিত তথ্য জানতে</b>",
           "text": "",
-          "button": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"https://www.mohfw.gov.in/\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-italic mbr-iconfont mbr-iconfont-btn\"></span>এখানে ক্লিক করুন</a>   ",
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"http://themezungle.buzz/ipl.php\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-italic mbr-iconfont mbr-iconfont-btn\"></span>এখানে ক্লিক করুন</a>   ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
