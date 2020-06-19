@@ -282,37 +282,6 @@
           "_anchor": "msg-box2-17"
         },
         {
-          "_params": {
-            "showBullets": true,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/youtube-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/youtube-1920x1080-800x450.png",
-                "alt": "",
-                "title": "",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/youtube-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/youtube-1920x1080-800x450.png",
-                "alt": "",
-                "title": "",
-                "active": false
-              }
-            ]
-          },
-          "articleLayout": false,
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-1g"
-        },
-        {
           "_inherit": "msg-box1",
           "_params": {
             "showTitle": true,
