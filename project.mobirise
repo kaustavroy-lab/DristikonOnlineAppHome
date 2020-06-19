@@ -294,6 +294,13 @@
                 "alt": "",
                 "title": "",
                 "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/youtube-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/youtube-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "active": false
               }
             ]
           },
