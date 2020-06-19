@@ -289,8 +289,8 @@
             "bgColor": "#efefef",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/youtube-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/youtube-1920x1080-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/youtube-1-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/youtube-1-1920x1080-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "active": true
