@@ -14,7 +14,7 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 52,
+    "uniqCompNum": 53,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/splash-128x128-1.png",
@@ -283,28 +283,27 @@
         },
         {
           "_params": {
-            "showText": false
+            "showBullets": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/youtube-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/youtube-1920x1080-800x450.png",
+                "alt": "",
+                "title": "",
+                "active": true
+              }
+            ]
           },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/youtube-1400x788.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "articleLayout": false,
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-1f"
+          "_name": "gallery1",
+          "_anchor": "gallery1-1g"
         },
         {
           "_inherit": "msg-box1",
