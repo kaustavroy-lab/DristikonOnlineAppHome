@@ -31,6 +31,14 @@
 #msg-box2-17 .btn {
   font-size: 23px;
 }
+#msg-box2-1e H2 {
+  text-align: center;
+  font-size: 16px;
+}
+#video1-t DIV {
+  text-align: center;
+  color: #ff0700;
+}
 #content5-m .mbr-section-title {
   text-align: center;
   color: #ff0700;
@@ -41,10 +49,7 @@
 }
 #content5-m P {
   font-size: 17px;
-}
-#video1-t DIV {
   text-align: center;
-  color: #000000;
 }
 #image1-1a DIV {
   text-align: center;

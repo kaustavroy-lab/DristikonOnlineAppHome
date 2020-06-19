@@ -14,7 +14,7 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 50,
+    "uniqCompNum": 51,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/splash-128x128-1.png",
@@ -282,6 +282,74 @@
           "_anchor": "msg-box2-17"
         },
         {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b><i>Special App Access Video Only For You</i></b>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1e",
+          "_styles": {
+            "H2": {
+              "text-align": "center",
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/ntkiApqyzrg",
+              "autoplay": "on",
+              "loop": false
+            }
+          },
+          "text": "<b>TOMAR TANE SARA BELAR GAANE Cover by <i>SAYAN</i> | Dristikon Online Production Work</b>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-t",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "color": "#ff0700"
+            }
+          }
+        },
+        {
           "_params": {
             "showTitle": true,
             "showCaption": true,
@@ -301,7 +369,7 @@
             "overlayOpacity": 0.7
           },
           "title": "<b>Our Story</b>",
-          "caption": "<p>\"Dristikon\" is an initiative in the form of a little magazine and a YouTube channel maintained by some students of Tarakeswar. It's an App. cum fan page for all the members of DRISTIKON family specifically maintained by <a href=\"https://kaustavroy-lab.github.io/kaustavroyinfo/\" class=\"text-danger\">Kaustav Roy</a> and <a href=\"https://www.facebook.com/soubhik.chel\" class=\"text-danger\" target=\"_blank\">Soubhik Chel</a>.\n</p><p>Stay connected, and never miss any update.</p>",
+          "caption": "<p>\"Dristikon\" is an initiative in the form of a little magazine and a YouTube channel maintained by some students of Tarakeswar. It's an App. cum fan page for all the members of DRISTIKON family specifically maintained by <a href=\"https://kaustavroy-lab.github.io/kaustavroyinfo/\" class=\"text-danger\">Kaustav Roy</a> and <a href=\"https://www.facebook.com/soubhik.chel\" class=\"text-danger\" target=\"_blank\">Soubhik Chel</a>. </p><p>Stay connected, and never miss any update.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -319,37 +387,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             },
             "P": {
-              "font-size": "17px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/wycAOwvnlnM",
-              "autoplay": "on",
-              "loop": false
-            }
-          },
-          "text": "<b>☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️</b><br><b>Our Latest Video On Youtube</b>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video1",
-          "_anchor": "video1-t",
-          "_styles": {
-            "DIV": {
-              "text-align": "center",
-              "color": "#000000"
+              "font-size": "17px",
+              "text-align": "center"
             }
           }
         },
