@@ -71,7 +71,7 @@
               "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -122,7 +122,7 @@
                 "title": "Dream",
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"https://youtu.be/X7vjmAWi55s\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click To View</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://youtu.be/X7vjmAWi55s\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-video-play mbr-iconfont mbr-iconfont-btn\"></span>Click To View</a>  ",
                 "overlay": false,
                 "alt": "Dream"
               },
