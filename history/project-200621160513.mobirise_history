@@ -14,8 +14,8 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 55,
-    "versionPublish": "4.12.4",
+    "uniqCompNum": 54,
+    "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/splash-128x128-1.png",
     "robotsSwitcher": false,
@@ -354,12 +354,12 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/VQMm4jPOFzQ",
+              "src": "https://youtu.be/ntkiApqyzrg",
               "autoplay": "on",
-              "loop": "on"
+              "loop": false
             }
           },
-          "text": "<b>'Ei Sundor Swarnali Shondhay' Cover by Sonali Ghosh | Geeta Dutta | Dristikon Online Production Work</b>",
+          "text": "<b>TOMAR TANE SARA BELAR GAANE Cover by SAYAN | Dristikon Online Production Work</b>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
